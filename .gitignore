@@ -7,10 +7,12 @@ venv/
 
 # Data and generated artefacts
 data/raw/
+data/interim/
 data/processed/
 artifacts/models/
 artifacts/metrics/
 artifacts/figures/
+artifacts/reports/
 
 # Tooling and operating-system files
 .pytest_cache/
