@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Data and generated artefacts
+data/raw/
+data/processed/
+artifacts/models/
+artifacts/metrics/
+artifacts/figures/
+
+# Tooling and operating-system files
+.pytest_cache/
+.coverage
+.DS_Store
+Thumbs.db
